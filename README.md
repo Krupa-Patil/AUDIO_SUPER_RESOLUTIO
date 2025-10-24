@@ -43,16 +43,8 @@ Custom or publicly available audio datasets (e.g., MUSDB18, VCTK) can be used. E
 ## Setup and Usage
 1. Clone the repository
 git clone https://github.com/Krupa-Patil/AUDIO_SUPER_RESOLUTIO.git
-text
-2. Install dependencies
-pip install -r requirements.txt
-text
-3. Train the model
-python train.py --epochs 100 --batch_size 16
-text
-4. Test and evaluate results
-python _audio_.py
-text
+2. Train the model
+3. Test and evaluate results
 
 ## Results
 - Significant reduction in audio noise and data loss.
